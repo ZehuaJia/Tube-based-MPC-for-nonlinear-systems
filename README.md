@@ -5,5 +5,6 @@ Yu, S., Maier, C., Chen, H., & Allgöwer, F. (2013). Tube MPC scheme based on ro
 
 YALMIP, SDPT3 and MPT3 are required.
 
-# Based on the Tube-based MPC framework, a new Tube-based MPC method which is applicable to highly nonlinear systems, especially for autonomous vehicles and mechanical systems, has been proposed in our recent paper:
+# Something new for Tube-based MPC with applications to highly nonlinear systems
+Based on the Tube-based MPC framework, a new Tube-based MPC method which is applicable to highly nonlinear systems, especially for autonomous vehicles and mechanical systems, has been proposed in our recent paper:
 Jia, Z., Lu, H., Chen, H., & Zhang, W. (2024). Robust Distributed Cooperative Rendezvous Control for Heterogeneous Marine Vehicles Using Model Predictive Control. IEEE Transactions on Vehicular Technology.
