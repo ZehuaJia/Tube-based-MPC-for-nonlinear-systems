@@ -5,6 +5,8 @@ Yu, S., Maier, C., Chen, H., & Allgöwer, F. (2013). Tube MPC scheme based on ro
 
 YALMIP, SDPT3 and MPT3 are required.
 
+If you find the resources helpful for your research, please cite the following papers. Thanks.
+
 # Something new for Tube-based MPC with applications to highly nonlinear systems
 Based on the Tube-based MPC framework, a new Tube-based MPC method which is applicable to highly nonlinear systems, especially for autonomous vehicles and mechanical systems, has been proposed in our recent paper:
 
